@@ -1,0 +1,28 @@
+name: michalbayerl
+favicon: null
+layout_spectrum: 0.9735930538736284
+typography_spectrum: 0.615724055794999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.37155213369987905
+  lightness: 0.532489865552634
+  saturation: 0.21958557050675154
+  rhythmicContrast: 0.42371656675823033
+purpose: []
