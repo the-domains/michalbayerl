@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[michalbayerl]]></title>
-        <description><![CDATA[michalbayerl]]></description>
+        <title><![CDATA[Michal Bayerl]]></title>
+        <description><![CDATA[Michal Bayerl]]></description>
         <link>https://thegrid.ai/michalbayerl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 22:20:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/michalbayerl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zkouška]]></title>
+            <description><![CDATA[<article><h1>Zkouška</h1><p>Píše se tady, že do této kolonky mám publikovat nějaký text. No, uvidíme, co s tím Grid provede.</p></article>]]></description>
+            <link>https://thegrid.ai/michalbayerl/zkouska/index.html</link>
+            <guid isPermaLink="false">fc283495-8501-4c66-806f-d66d7f4cf88b</guid>
+            <pubDate>Thu, 25 Feb 2016 22:09:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d36405c-06ee-40e6-8778-deef17060f36.JPG">]]></description>
