@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Killing Floor 2 - Útok Zedů s Nvidia Flex
-datePublished: '2016-06-09T21:12:09.113Z'
-dateModified: '2016-06-09T21:11:47.530Z'
+datePublished: '2016-06-09T21:13:01.741Z'
+dateModified: '2016-06-09T21:12:45.814Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-09-first-35-minutes-of-hard-reset-redux.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-09-first-35-minutes-of-hard-reset-redux.md
 url: first-35-minutes-of-hard-reset-redux/index.html
 _type: Article
 
