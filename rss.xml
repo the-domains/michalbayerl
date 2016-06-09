@@ -4,7 +4,7 @@
         <description><![CDATA[Michal Bayerl]]></description>
         <link>https://thegrid.ai/michalbayerl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 21:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 21:19:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/michalbayerl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,34 @@
             <link>https://thegrid.ai/michalbayerl/8ba4f4bc-d963-4891-9484-f2273bc151c8/index.html</link>
             <guid isPermaLink="false">8ba4f4bc-d963-4891-9484-f2273bc151c8</guid>
             <pubDate>Sun, 06 Mar 2016 21:32:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zkouška]]></title>
+            <description><![CDATA[<p>Píše se tady, že do této kolonky mám publikovat nějaký text. No, uvidíme, co s tím Grid provede.</p>]]></description>
+            <link>https://thegrid.ai/michalbayerl/zkouska/index.html</link>
+            <guid isPermaLink="false">fc283495-8501-4c66-806f-d66d7f4cf88b</guid>
+            <pubDate>Sun, 06 Mar 2016 21:29:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Toto je můj první příspěvek na Gridu. Revoluční online
+
+platformě pro umělou
+
+inteligencí poháněného
+
+webového prostoru. Je to prostor, který sdílíte a
+
+necháváte
+
+žít vlastním životem. Tohle je jen začátek.
+
+Začátek
+
+možná něčeho mnohem většího.</p>]]></description>
+            <link>https://thegrid.ai/michalbayerl/5dd6b1a6-4796-4a5b-a7a8-b0a328b3f707/index.html</link>
+            <guid isPermaLink="false">5dd6b1a6-4796-4a5b-a7a8-b0a328b3f707</guid>
+            <pubDate>Mon, 22 Feb 2016 21:11:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
