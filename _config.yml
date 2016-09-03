@@ -1,20 +1,4 @@
-name: michalbayerl
-favicon: null
-layout_spectrum: 0.70319
 typography_spectrum: 0.59904
-title: Michal Bayerl
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,21 @@ color:
   lightness: 0.1875
   saturation: 0.75
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.70319
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: michalbayerl
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Michal Bayerl
+description: Hry MTB život
 purpose: []
